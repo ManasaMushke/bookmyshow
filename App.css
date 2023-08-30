@@ -1,4 +1,4 @@
-
+/* 
 .f-picture p{
   color: gray;
   text-align: center;
@@ -45,4 +45,20 @@
 .tn-row{
   margin: 25px;
   display: flex; 
+} */
+
+.movies img {
+  width: 100%;
+  border-radius: 5px;
+}
+.Movieslist {
+  display: flex;
+  flex-wrap: wrap;
+}
+.movies p {
+  text-align: center;
+  white-space: wrap;
+}
+.movies {
+  width: 20%;
 }
